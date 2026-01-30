@@ -1,0 +1,11 @@
+{
+  "textFontFamily": "JetBrainsMono Nerd Font, JetBrainsMono NF, CaskaydiaCove Nerd Font Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font, JetBrainsMono NF, CaskaydiaCove Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono, CaskaydiaCove Nerd Font Mono",
+  "enabledCssSnippets": [
+    "[ad]Timeline",
+    "custom-admonitions.a1cb45",
+    "custom-admonitions.c9c6cb"
+  ],
+  "cssTheme": "Minimal"
+}

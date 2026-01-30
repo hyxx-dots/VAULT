@@ -1,0 +1,38 @@
+/* Button styling for Obsidian */
+button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25em;
+    padding: 0.25em 0.75em;
+    border: 1px solid var(--interactive-normal);
+    border-radius: 4px;
+    background: var(--interactive-normal);
+    color: var(--text-normal);
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+button:hover {
+    background: var(--interactive-hover);
+    border-color: var(--interactive-hover);
+}
+
+/* SVG in buttons */
+button svg {
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+}
+
+/* Button code blocks */
+pre button {
+    background: transparent;
+    border: 1px solid var(--text-muted);
+    color: var(--text-muted);
+}
+
+pre button:hover {
+    background: var(--interactive-hover);
+    border-color: var(--interactive-accent);
+    color: var(--text-normal);
+}

@@ -1,0 +1,20 @@
+---
+date_created: 2026-01-29
+date_modified: 2026-01-29
+document_type: note
+tags: note
+---
+[[01 NOTES|Notes]] / **[[sup bra|sup bra]]**
+# sup bra
+**Overview**
+Description:: 
+
+## ✍
+
+
+
+
+
+
+---
+[[01 NOTES|Notes]] / **[[sup bra|sup bra]]**
