@@ -21,11 +21,10 @@ button:hover {
 button svg {
     width: 1em;
     height: 1em;
-    fill: currentColor;
+    /* fill: currentColor; */
 }
 
-/* Button code blocks */
-pre button {
+Button code blocks pre button {
     background: transparent;
     border: 1px solid var(--text-muted);
     color: var(--text-muted);

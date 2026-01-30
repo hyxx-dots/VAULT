@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "00 OBSIDIAN/002 Templates",
+  "templates_folder": "00 - OBSIDIAN/02 - Templates",
   "templates_pairs": [
     [
       "",
@@ -11,12 +11,12 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "/bin/zsh",
-  "user_scripts_folder": "00 OBSIDIAN/003 Scriprs/template",
+  "user_scripts_folder": "00 - OBSIDIAN/03 - Scripts/template",
   "enable_folder_templates": true,
   "folder_templates": [
     {
       "folder": "/",
-      "template": "00 OBSIDIAN/002 Templates/_general/tp_generic_template.md"
+      "template": "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template.md"
     }
   ],
   "enable_file_templates": false,
@@ -29,7 +29,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "00 OBSIDIAN/002 Templates/_general/tp_foldermoc_waypoint.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp_foldermoc_waypoint.md",
     ""
   ],
   "startup_templates": [

@@ -26,5 +26,8 @@
   "settings-search",
   "editing-toolbar",
   "obsidian-emoji-toolbar",
-  "mysnippets-plugin"
+  "mysnippets-plugin",
+  "folder-notes",
+  "folder-note-plugin",
+  "customjs"
 ]

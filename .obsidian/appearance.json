@@ -1,12 +1,8 @@
 {
   "textFontFamily": "FiraCode Nerd Font Mono",
   "enabledCssSnippets": [
-    "[ad]Timeline",
-    "Theme Chamba (Editing)",
     "custom-admonitions.c9c6cb",
-    "【Custom】Myhome Style",
-    "custom-admonitions.a1cb45",
-    "button-support"
+    "[ad]Timeline"
   ],
-  "cssTheme": ""
+  "cssTheme": "Blue Topaz"
 }
