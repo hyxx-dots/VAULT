@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome",
+      "path": "Welcome.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
       "basename": "10 - NOTES",
       "path": "10 - NOTES/10 - NOTES.md"
+    },
+    {
+      "basename": "_tools",
+      "path": "00 - OBSIDIAN/05 - Workspaces/_tools.md"
     },
     {
       "basename": "20 - JOURNAL",
@@ -21,20 +33,12 @@
       "path": "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template-2.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
-    },
-    {
       "basename": "_buttons",
       "path": "00 - OBSIDIAN/05 - Workspaces/_buttons.md"
     },
     {
       "basename": "My New Note",
       "path": "10 - NOTES/My New Note.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
     },
     {
       "basename": "40 - RICES",
@@ -69,14 +73,6 @@
       "path": "20 - JOURNAL/02 - Weekly Notes/02 - Weekly Notes.md"
     },
     {
-      "basename": "Untitled 2",
-      "path": "Untitled 2.md"
-    },
-    {
-      "basename": "caresta",
-      "path": "caresta.md"
-    },
-    {
       "basename": "tp_daily_notes 1",
       "path": "00 - OBSIDIAN/02 - Templates/_journal/tp_daily_notes 1.md"
     },
@@ -89,28 +85,12 @@
       "path": "10 - NOTES/Terminal.md"
     },
     {
-      "basename": "_tools",
-      "path": "10 - NOTES/_tools.md"
-    },
-    {
       "basename": "2026-01-15",
       "path": "02 JOURNAL/001 Daily Notes/2026-01-15.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "tp_generic_template (copy)",
       "path": "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template (copy).md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "Welcome.md"
-    },
-    {
-      "basename": "sup bra",
-      "path": "sup bra.md"
     }
   ],
   "omittedPaths": [],

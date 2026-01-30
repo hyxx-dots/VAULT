@@ -42,7 +42,6 @@ for (let group of dv.pages('"10 - NOTES" and !#dashboard').groupBy(p => p.note))
 
 %% Begin Waypoint %%
 - **[[10 - NOTES]]**
-	- [[_tools]]
 	- [[My New Note]]
 	- [[sup bro]]
 	- [[Terminal]]
