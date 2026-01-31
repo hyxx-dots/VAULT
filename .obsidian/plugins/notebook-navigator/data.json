@@ -21,6 +21,7 @@
     "tagSortOrder": "synced",
     "searchProvider": "synced",
     "includeDescendantNotes": "synced",
+    "useFloatingToolbars": "synced",
     "dualPane": "synced",
     "dualPaneOrientation": "synced",
     "paneTransitionDuration": "synced",
@@ -47,13 +48,14 @@
   "homepage": null,
   "mobileHomepage": null,
   "useMobileHomepage": false,
-  "dualPane": false,
+  "dualPane": true,
   "dualPaneOrientation": "horizontal",
   "showTooltips": false,
   "showTooltipPath": true,
   "desktopBackground": "separate",
   "desktopScale": 1,
   "mobileScale": 1,
+  "useFloatingToolbars": true,
   "dateFormat": "MMM d, yyyy",
   "timeFormat": "h:mm a",
   "pinRecentNotesWithShortcuts": false,
@@ -80,6 +82,12 @@
   "calendarCustomMonthPattern": "",
   "calendarCustomQuarterPattern": "",
   "calendarCustomYearPattern": "",
+  "calendarTemplateFolder": "",
+  "calendarCustomFileTemplate": null,
+  "calendarCustomWeekTemplate": null,
+  "calendarCustomMonthTemplate": null,
+  "calendarCustomQuarterTemplate": null,
+  "calendarCustomYearTemplate": null,
   "colorIconOnly": false,
   "toolbarVisibility": {
     "navigation": {
@@ -351,7 +359,17 @@
   "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {},
-  "folderAppearances": {},
+  "folderAppearances": {
+    "Notes": {
+      "mode": "compact"
+    },
+    "30 - LEARNING": {
+      "mode": "compact"
+    },
+    "00 - OBSIDIAN": {
+      "previewRows": 1
+    }
+  },
   "tagIcons": {},
   "tagColors": {},
   "tagBackgroundColors": {},
@@ -380,7 +398,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "2.2.0",
+  "lastShownVersion": "2.2.1",
   "lastAnnouncedRelease": "",
   "rootFolderOrder": [],
   "rootTagOrder": []

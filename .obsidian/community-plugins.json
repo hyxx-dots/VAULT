@@ -10,14 +10,12 @@
   "omnisearch",
   "obsidian42-brat",
   "obsidian-obsidget",
-  "notebook-navigator",
   "buttons",
   "waypoint",
   "recent-files-obsidian",
   "copilot",
   "terminal",
   "obsidian-admonition",
-  "pretty-properties",
   "periodic-notes",
   "homepage",
   "cmdr",
@@ -29,5 +27,7 @@
   "mysnippets-plugin",
   "folder-notes",
   "folder-note-plugin",
-  "customjs"
+  "customjs",
+  "notebook-navigator",
+  "obsidian-banners"
 ]

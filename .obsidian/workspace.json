@@ -4,71 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e728bf6b62eff7f7",
         "type": "tabs",
-        "dimension": 44.896193771626294,
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "cba140f731342e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "691991abab58eb3d",
-        "type": "tabs",
-        "dimension": 55.1038062283737,
-        "children": [
-          {
-            "id": "72c465c3188b4b70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 - JOURNAL/20 - JOURNAL.md",
+                "file": "20 - JOURNAL/01 - Daily Notes/2026-01-19.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20 - JOURNAL"
+              "title": "2026-01-19"
             }
           },
           {
-            "id": "307fd5f5196dbcbe",
+            "id": "badc997518518c8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "tp_generic_template"
-            }
-          },
-          {
-            "id": "cf63c2dfdbda7a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - NOTES/sup bro.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "sup bro"
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
             }
           }
         ]
@@ -126,7 +86,7 @@
             }
           },
           {
-            "id": "4f7473037cdc7348",
+            "id": "502ac1155fd68220",
             "type": "leaf",
             "state": {
               "type": "notebook-navigator",
@@ -156,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 472.5
   },
   "right": {
     "id": "862d6dc9615b8d76",
@@ -215,7 +175,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "Terminal: OC | Templater error with banner getrandom..."
+              "title": "Terminal: jaaxx@ArchBook:~/Documents/Obsidian-Test/MY-OBSIDIAN"
             }
           },
           {
@@ -227,14 +187,27 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "cde15ddc22ca70ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - OBSIDIAN/05 - Workspaces/_tools.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_tools"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +216,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -261,34 +233,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cba140f731342e65",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "Welcome.md",
-    "sup bra.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "10 - NOTES/10 - NOTES.md",
-    "caresta.md",
     "00 - OBSIDIAN/05 - Workspaces/_tools.md",
-    "10 - NOTES/2026-01-28.md",
-    "20 - JOURNAL/20 - JOURNAL.md",
-    "10 - NOTES/sup bro.md",
-    "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template.md",
-    "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template-2.md",
-    "00 - OBSIDIAN/05 - Workspaces/_buttons.md",
-    "10 - NOTES/sdff.md.md",
-    "10 - NOTES/My New Note.md",
-    "40 - RICES/40 - RICES.md",
     "20 - JOURNAL/01 - Daily Notes/2026-01-19.md",
-    "00 - OBSIDIAN/03 - Scripts/template/template.md",
-    "20 - JOURNAL/01 - Daily Notes/01 - Daily Notes.md",
-    "00 - OBSIDIAN/01 - Tips/Navbar with no plugins (dataviews).md",
-    "00 - OBSIDIAN/02 - Templates/_journal/tp_daily_notes.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp_note_template copy.md",
+    "Dashboard.md",
+    "10 - NOTES.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp-auto-select-template.md",
+    "Notes/untitled.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp_note_template.md",
+    "holas\n.md",
+    "10 - NOTES/10 - NOTES.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template.md",
+    "10 - NOTES/daeol.md",
+    "10 - NOTES/dgdfg.md",
+    "10 - NOTES/dsdfsd.md",
+    "10 - NOTES/holas.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp-plugin-start-stop-template.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp-note-collection-template.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp-note-classification-template.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp-flowchart-template.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp-default-note-template.md",
+    "00 - OBSIDIAN/02 - Templates/_general/tp-character-template.md",
+    "10 - NOTES/jhjh.md",
+    "10 - NOTES/jjk.md",
+    "10 - NOTES/sds.md",
+    "10 - NOTES/fdsd.md",
     "00 - OBSIDIAN/02 - Templates/_general/tp_foldermoc_waypoint.md",
-    "20 - JOURNAL/02 - Weekly Notes/02 - Weekly Notes.md",
-    "02 JOURNAL/001 Daily Notes/2026-01-18.md",
+    "Notes",
+    "NOTES",
     "01 NOTES/001 Daily Notes",
     "00 - OBSIDIAN/02 - Templates/_journal",
     "00 - OBSIDIAN/05 - Workspaces",
@@ -306,8 +280,6 @@
     "00 OBSIDIAN/003 Scriprs/template/getweather (Copy).js",
     "00 - OBSIDIAN/01 - Tips/Tips - Plugins",
     "20 - JOURNAL/02 - Weekly Notes",
-    "20 - JOURNAL/01 - Daily Notes",
-    "main.py",
-    "copilot/memory"
+    "20 - JOURNAL/01 - Daily Notes"
   ]
 }

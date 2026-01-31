@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "/",
-      "template": "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template.md"
+      "folder": "10 - NOTES",
+      "template": "00 - OBSIDIAN/02 - Templates/_general/tp_note_template.md"
     }
   ],
   "enable_file_templates": false,

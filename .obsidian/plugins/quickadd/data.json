@@ -73,11 +73,85 @@
           }
         ]
       }
+    },
+    {
+      "id": "0bef9c37-90fc-495b-b118-b4e2093a0070",
+      "name": "New Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 - OBSIDIAN/02 - Templates/_general/tp_note_template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "577c45ad-4e37-48b2-9b7d-b6f09062f8bc",
+      "name": "New Note",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": false,
+      "macro": {
+        "name": "New Note",
+        "id": "a341de51-16ba-4132-a323-9a32805b3e03",
+        "commands": [
+          {
+            "name": "Insert Template",
+            "type": "NestedChoice",
+            "id": "9cd5bf35-fc1b-431e-9bb5-d3d11c51debc",
+            "choice": {
+              "id": "7ace7bc5-4e85-4c49-a1a5-fc213fc85dc8",
+              "name": "Insert Template",
+              "type": "Template",
+              "command": false,
+              "templatePath": "00 - OBSIDIAN/02 - Templates/_general/tp_generic_template.md",
+              "fileNameFormat": {
+                "enabled": false,
+                "format": ""
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "00 - OBSIDIAN/02 - Templates",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {},
